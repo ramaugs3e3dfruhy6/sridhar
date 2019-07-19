@@ -1,6 +1,6 @@
 num=int(input())
 if num%2==0:
-    print('EveN')
+    print('Even')
 else:
     print('invalid')
 
